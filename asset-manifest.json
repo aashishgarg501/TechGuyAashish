@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TechGuyAashish/static/css/main.c6911532.css",
+    "main.js": "/TechGuyAashish/static/js/main.c352d807.js",
+    "static/media/1.jpg": "/TechGuyAashish/static/media/1.cbee62aa89edcfdf25c3.jpg",
+    "static/media/8.jpg": "/TechGuyAashish/static/media/8.678a84e427ddc784a7c7.jpg",
+    "static/media/2.jpg": "/TechGuyAashish/static/media/2.3da31af7203a59dc9c57.jpg",
+    "static/media/3.jpg": "/TechGuyAashish/static/media/3.5c37a099b7b1fe2911c3.jpg",
+    "static/media/7.jpg": "/TechGuyAashish/static/media/7.6c7752f1f81a829cadc2.jpg",
+    "static/media/4.jpg": "/TechGuyAashish/static/media/4.4e8b138ee10b04599913.jpg",
+    "static/media/6.jpg": "/TechGuyAashish/static/media/6.be972a8b75d407c841ed.jpg",
+    "index.html": "/TechGuyAashish/index.html",
+    "main.c6911532.css.map": "/TechGuyAashish/static/css/main.c6911532.css.map",
+    "main.c352d807.js.map": "/TechGuyAashish/static/js/main.c352d807.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6911532.css",
+    "static/js/main.c352d807.js"
+  ]
+}
